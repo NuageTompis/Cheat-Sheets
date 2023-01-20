@@ -3,4 +3,4 @@ This repository is a work in progress. It draws up an inventory of cheat sheets 
 
 # Current cheat sheets
 
-  - Linux commands (basic)
+  - Linux commands (basic) [French]
